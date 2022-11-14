@@ -1,9 +1,8 @@
 body {
-    background-image: url("yarn.jpeg");
+    background-image: url("queue.jpg");
     background-size: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
-    height: 100vh;
 }
 
 .container {
@@ -12,6 +11,7 @@ body {
     margin: 0 auto;
     margin-top: 30vh;
     border: 3px solid black;
+    box-shadow: -4px -4px 6px rgb(119, 118, 118);
     border-radius: 10px;
 }
 
